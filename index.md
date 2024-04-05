@@ -1,9 +1,8 @@
-# About Me
-Hi! I'm Jason and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-24. I'm excited to learn all about what this course has to offer, whether it's from Professor Powell, my classmates, the resources available, or myself! If I were to describe myself with a quote, it would be:
+# About [Me](/images/Headshot.jpg)
+Hi! I'm **Jason**. and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-24. I'm excited to learn all about what this course has to offer, whether it's from Professor Powell, my classmates, the resources available, or myself! If I were to describe myself with a quote, it would be:
 
->"That's my favorite saying" -[LeBron James](https://www.youtube.com/watch?v=de_RFVywzO0)
+>"That's my favorite saying" -[~~Lebron~~ My Glorious Sunshine](https://www.youtube.com/watch?v=de_RFVywzO0)
 
-![Me](/images/Headshot.jpg)
 ## Personal Interests:
 ### Hobbies (*in order of prevalence*):
   1. Basketball
@@ -15,16 +14,50 @@ Hi! I'm Jason and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-24. I'
   7. Surfing
 
 ### Favorites:
-- Food: Sweet baked goods
-- Music Artists: A$AP Rocky, Slowdive, Deftones, Soulja Boy, T-Pain just to name a few...
-- Movie: Everything Everywhere All at Once
-- Show: ATLA
-- Youtube Channel: Whichever uploads longest European Football match highlights
-
-## Fun Facts
+- **Food**: Sweet baked goods
+- **Music Artists**: A$AP Rocky, Slowdive, Deftones, Soulja Boy, T-Pain just to name a few...
+- **Movie**: Everything Everywhere All at Once
+- **Show**: ATLA
+- **Youtube Channel**: Whichever uploads longest European Football match highlights
+- **Color**: `#46703d`
 
 ## Programming
 Most if not all of my programming experience comes down to the courses I've taken from high school and university through now. I've only recently become more passionate and taken the initiative to learn outside of my studies. I still am not sure what direction/specialization I want to move towards, so my main priority is learning what I don't know and what I don't know that I don't know.
 
+### Proudest Leetcode Solution:
+```
+class Solution {
+    public int minSwaps(int[] nums) {
+        int totalOnes = 0;
+        for (int i : nums) {
+            if (i == 1)
+                totalOnes++;
+        }
+        int[] newNums = new int[nums.length*2];
+        System.arraycopy(nums, 0, newNums, 0, nums.length);
+        System.arraycopy(nums, 0, newNums, nums.length, nums.length);        
+        int windowCount = 0;
+        for (int i = 0; i < totalOnes; i++) {
+            if (newNums[i] == 1) {
+                windowCount++;
+            }
+        }
+        int max = windowCount;
+        int start = 0;
+        for (int i = totalOnes; i < newNums.length; i++) {
+            if (newNums[i] == 1) {
+                windowCount++;
+            }
+            if (newNums[start] == 1) {
+                windowCount--;
+            }
+            max = Math.max(max, windowCount);           
+            start++;
+        }
+        return totalOnes-max;
+    }
+}
+```
 
-## Fun Trivia
+
+## Fun Facts
