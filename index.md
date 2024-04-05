@@ -3,6 +3,7 @@ Hi! I'm Jason and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-24. I'
 
 >"That's my favorite saying" -[LeBron James](https://www.youtube.com/watch?v=de_RFVywzO0)
 
+![Me](/images/Headshot.jpg)
 ## Personal Interests:
 ### Hobbies (*in order of prevalence*):
   1. Basketball
