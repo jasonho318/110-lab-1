@@ -1,10 +1,12 @@
 # About [Me](/images/Headshot.jpg)
+
 Hi! I'm **Jason**, and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-24. I'm excited to learn all about what this course has to offer, whether it's from Professor Powell, my classmates, the resources available, or myself! If I were to describe myself with a quote, it would be:
 >"That's my favorite saying" -[~~Lebron~~ My Glorious Sunshine](https://www.youtube.com/watch?v=de_RFVywzO0)
 
+## Personal Interests
 
-## Personal Interests:
-### Hobbies (*in order of prevalence*):
+### Hobbies (*in order of prevalence*)
+
   1. Basketball
   2. Volleyball
   3. Cooking/Baking
@@ -13,25 +15,29 @@ Hi! I'm **Jason**, and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-2
   6. Drawing
   7. Surfing
 
-### Favorites:
+### Favorites
+
 - **Food**: Sweet baked goods
 - **Music Artists**: A$AP Rocky, Slowdive, Deftones, Soulja Boy, T-Pain just to name a few...
 - **Movie**: Everything Everywhere All at Once
 - **Show**: ATLA
 - **Youtube Channel**: Whichever uploads longest European Football match highlights
 
-
 ## Programming
+
 Most if not all of my programming experience comes down to the courses I've taken from high school and university through now. I've only recently become more passionate (*and gotten over my perfectionism paralysis*) and taken the initiative to learn outside of my studies. I'm still not sure what direction/specialization I want to move towards, so my main priority is learning what I don't know and what I don't know that I don't know.
 
-### Some Relevant Knowledge:
+### Some Relevant Knowledge
+
 - Languages: Java, C, C++, SQL, HTML, CSS, JavaScript
 - Basic to Intermediate Algorithms and Data Structures
 - Object Oriented Design
 - Basic Systems Programming
 - Computational math and analysis
-### Proudest Leetcode Solution:
-```
+
+### Proudest Leetcode Solution
+
+```Java
 class Solution {
     public int minSwaps(int[] nums) {
         int totalOnes = 0;
@@ -66,6 +72,7 @@ class Solution {
 ```
 
 ## Fun Facts
+
 - Born in Orange County, CA, Moved to Utah when I was 2, moved back to Orange County, CA when I turned 5, living there ever since
 - 4 years varsity Basketball and Volleyball
 - Dogs > Cats
@@ -73,6 +80,7 @@ class Solution {
 - I met the entire Ball Family
 
 ### Places I've traveled to/lived in (and want to)
+
 - [x] Vietnam
 - [x] China
 - [x] Hawaii
