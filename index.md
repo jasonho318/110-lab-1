@@ -1,5 +1,5 @@
 # About [Me](/images/Headshot.jpg)
-Hi! I'm **Jason**. and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-24. I'm excited to learn all about what this course has to offer, whether it's from Professor Powell, my classmates, the resources available, or myself! If I were to describe myself with a quote, it would be:
+Hi! I'm **Jason**, and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-24. I'm excited to learn all about what this course has to offer, whether it's from Professor Powell, my classmates, the resources available, or myself! If I were to describe myself with a quote, it would be:
 >"That's my favorite saying" -[~~Lebron~~ My Glorious Sunshine](https://www.youtube.com/watch?v=de_RFVywzO0)
 
 
@@ -12,6 +12,7 @@ Hi! I'm **Jason**. and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-2
   5. Video Games
   6. Drawing
   7. Surfing
+
 ### Favorites:
 - **Food**: Sweet baked goods
 - **Music Artists**: A$AP Rocky, Slowdive, Deftones, Soulja Boy, T-Pain just to name a few...
@@ -69,6 +70,8 @@ class Solution {
 - 4 years varsity Basketball and Volleyball
 - Dogs > Cats
 - Die hard L(ebron)aker fan
+- I met the entire Ball Family
+
 ### Places I've traveled to/lived in (and want to)
 - [x] Vietnam
 - [x] China
