@@ -21,7 +21,14 @@ Hi! I'm **Jason**. and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-2
 
 
 ## Programming
-Most if not all of my programming experience comes down to the courses I've taken from high school and university through now. I've only recently become more passionate and taken the initiative to learn outside of my studies. I still am not sure what direction/specialization I want to move towards, so my main priority is learning what I don't know and what I don't know that I don't know.
+Most if not all of my programming experience comes down to the courses I've taken from high school and university through now. I've only recently become more passionate (*and gotten over my perfectionism paralysis*) and taken the initiative to learn outside of my studies. I'm still not sure what direction/specialization I want to move towards, so my main priority is learning what I don't know and what I don't know that I don't know.
+
+### Some Relevant Knowledge:
+- Languages: Java, C, C++, SQL, HTML, CSS, JavaScript
+- Basic to Intermediate Algorithms and Data Structures
+- Object Oriented Design
+- Basic Systems Programming
+- Computational math and analysis
 ### Proudest Leetcode Solution:
 ```
 class Solution {
