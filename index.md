@@ -1,4 +1,4 @@
-# About [Me](/assets/Headshot.jpg)
+# About Me
 
 Hi! I'm **Jason**, and I'm a 3rd year Math-CS student in CSE 110 for Spring 23-24. I'm excited to learn all about what this course has to offer, whether it's from Professor Powell, my classmates, the resources available, or myself! If I were to describe myself with a quote, it would be:
 >"That's my favorite saying" -[~~Lebron~~ My Glorious Sunshine](https://www.youtube.com/watch?v=de_RFVywzO0)
